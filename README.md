@@ -1,5 +1,5 @@
 <h1 align="center">
-    ⚡️ Spark AR Javascript Filter by aton-py ⚡️
+    ⚡️ Spark AR Filter Using Javascript ⚡️
 </h1>
 
 ## Technologies
